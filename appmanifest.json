@@ -1,7 +1,7 @@
 {
-	"name": "D & D",
-	"short_name": "D & D",
-	"description": "Dungeons and Dozenten",
+	"name": "Neues Projekt",
+	"short_name": "Neues Projekt",
+	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
